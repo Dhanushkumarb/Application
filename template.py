@@ -41,7 +41,7 @@ for filepath in list_of_file:
                 logging.info("file has been created emptly")
                 
     else:
-        logging.info('f{filename} is alreday exist')
+        logging.info('f{filename} is alreday exist') 
             
             
 
