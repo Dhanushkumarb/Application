@@ -126,3 +126,520 @@ Source-Age: 0
 
 
 [2025-02-19 12:58:42,444]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<< 
+[2025-02-19 14:18:00,997]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 14:18:01,003]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 14:18:01,008]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 14:18:01,011]: INFO: common:  path has been created in artifacts
+[2025-02-19 14:20:13,800]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 14:20:13,802]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 14:20:13,806]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 14:20:13,807]: INFO: common:  path has been created in artifacts
+[2025-02-19 14:47:29,963]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 14:47:29,967]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 14:47:29,969]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 14:47:29,971]: INFO: common:  path has been created in artifacts
+[2025-02-19 14:49:12,725]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 14:49:12,728]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 14:49:12,728]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 14:49:12,728]: INFO: common:  path has been created in artifacts
+[2025-02-19 14:56:47,597]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 14:56:47,599]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 14:56:47,601]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 14:56:47,604]: INFO: common:  path has been created in artifacts
+[2025-02-19 15:02:57,948]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 15:02:57,948]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 15:02:57,960]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 15:02:57,962]: INFO: common:  path has been created in artifacts
+[2025-02-19 15:06:07,861]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 15:06:07,861]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 15:06:07,863]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 15:06:07,863]: INFO: common:  path has been created in artifacts
+[2025-02-19 15:09:20,364]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 15:09:20,365]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 15:09:20,365]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 15:09:20,372]: INFO: common:  path has been created in artifacts
+[2025-02-19 15:12:13,560]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 15:12:13,560]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 15:12:13,560]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 15:12:13,573]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 15:12:13,573]: INFO: common:  path has been created in artifacts
+[2025-02-19 15:12:13,573]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 15:12:15,209]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D150:374C4F:4F5EDA:727FED:67B5A776
+Accept-Ranges: bytes
+Date: Wed, 19 Feb 2025 09:42:15 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10232-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1739958135.156709,VS0,VE387
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 83dec1916656e6edb6ab1288064148fd4df55931
+Expires: Wed, 19 Feb 2025 09:47:15 GMT
+Source-Age: 0
+
+
+[2025-02-19 15:12:15,216]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 15:12:27,319]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 15:12:27,323]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 15:12:27,325]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 15:12:27,326]: INFO: common:  path has been created in artifacts
+[2025-02-19 15:12:43,134]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 15:12:43,137]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 15:12:43,140]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 15:12:43,142]: INFO: common:  path has been created in artifacts
+[2025-02-19 15:13:29,641]: INFO: common:  yaml file is empty
+[2025-02-19 15:14:51,690]: INFO: common:  yaml file is empty
+[2025-02-19 15:17:33,875]: INFO: common:  yaml file is empty
+[2025-02-19 15:22:04,349]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 15:22:04,350]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 15:22:04,351]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 15:22:04,355]: INFO: common:  path has been created in artifacts
+[2025-02-19 15:22:04,356]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-19 15:24:37,173]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 15:24:37,173]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 15:24:37,181]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 15:24:37,183]: INFO: common:  path has been created in artifacts
+[2025-02-19 15:24:37,185]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-19 16:02:58,006]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 16:02:58,006]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:02:58,006]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:02:58,006]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:02:58,006]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:02:58,006]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:02:59,850]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D150:374C4F:4F5EDA:727FED:67B5A776
+Accept-Ranges: bytes
+Date: Wed, 19 Feb 2025 10:33:00 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10221-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1739961180.731378,VS0,VE305
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ed5aaacfc66d4f5b4dc3968914c6de18ece73f76
+Expires: Wed, 19 Feb 2025 10:38:00 GMT
+Source-Age: 0
+
+
+[2025-02-19 16:02:59,858]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 16:02:59,858]: INFO: main:  >>>>>>>>>>>>>>>>stage Data Validation Stage initiated
+[2025-02-19 16:02:59,861]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:02:59,861]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:02:59,866]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:02:59,866]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:02:59,867]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:04:57,541]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 16:04:57,541]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:04:57,544]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:04:57,545]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:04:57,545]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:04:57,545]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:04:57,545]: INFO: data_ingestion:  file already exist
+[2025-02-19 16:04:57,549]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 16:04:57,549]: INFO: main:  >>>>>>>>>>>>>>>>stage Data Validation Stage initiated
+[2025-02-19 16:04:57,550]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:04:57,550]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:04:57,550]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:04:57,550]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:04:57,550]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:13:05,772]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 16:13:05,772]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:13:05,772]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:13:05,772]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:13:05,772]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:13:05,772]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:13:07,460]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D150:374C4F:4F5EDA:727FED:67B5A776
+Accept-Ranges: bytes
+Date: Wed, 19 Feb 2025 10:43:07 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10224-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1739961788.547041,VS0,VE297
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5be965a17f59be2960ba249dc3ed5f710d373a4d
+Expires: Wed, 19 Feb 2025 10:48:07 GMT
+Source-Age: 0
+
+
+[2025-02-19 16:13:07,462]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 16:13:07,462]: INFO: main:  >>>>>>>>>>>>>>>>stage Data Validation Stage initiated
+[2025-02-19 16:13:07,472]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:13:07,474]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:13:07,479]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:13:07,479]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:13:07,481]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:13:07,482]: ERROR: main:  'DataIngestionConfig' object has no attribute 'unzip_data_dir'
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 18, in <module>
+    data_validation.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_02_data_validation.py", line 16, in main
+    data_validation.validate_all_columns()
+  File "D:\Project\redwine_end-to-end\src\components\data_validation.py", line 30, in validate_all_columns
+    raise e
+  File "D:\Project\redwine_end-to-end\src\components\data_validation.py", line 13, in validate_all_columns
+    data=pd.read_csv(self.config.unzip_data_dir)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DataIngestionConfig' object has no attribute 'unzip_data_dir'
+[2025-02-19 16:14:12,956]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 16:14:12,956]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:14:12,956]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:14:12,956]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:14:12,956]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:14:12,956]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:14:12,956]: INFO: data_ingestion:  file already exist
+[2025-02-19 16:14:12,956]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 16:14:12,956]: INFO: main:  >>>>>>>>>>>>>>>>stage Data Validation Stage initiated
+[2025-02-19 16:14:12,972]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:14:12,972]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:14:12,974]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:14:12,974]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:14:12,974]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:14:12,980]: ERROR: main:  'DataIngestionConfig' object has no attribute 'unzip_data_dir'
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 18, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_02_data_validation.py", line 16, in main
+    data_validation.validate_all_columns()
+  File "D:\Project\redwine_end-to-end\src\components\data_validation.py", line 30, in validate_all_columns
+    raise e
+  File "D:\Project\redwine_end-to-end\src\components\data_validation.py", line 13, in validate_all_columns
+    data=pd.read_csv(self.config.unzip_data_dir)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DataIngestionConfig' object has no attribute 'unzip_data_dir'
+[2025-02-19 16:17:47,417]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 16:17:47,433]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:17:47,433]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:17:47,433]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:17:47,433]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:17:47,433]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:17:47,433]: INFO: data_ingestion:  file already exist
+[2025-02-19 16:17:47,433]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 16:17:47,433]: INFO: main:  >>>>>>>>>>>>>>>>stage Data Validation Stage initiated
+[2025-02-19 16:17:47,433]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:17:47,433]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:17:47,433]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:17:47,433]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:17:47,433]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:17:47,433]: ERROR: main:  'DataIngestionConfig' object has no attribute 'unzip_data_dir'
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 18, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_02_data_validation.py", line 16, in main
+    data_validation.validate_all_columns()
+  File "D:\Project\redwine_end-to-end\src\components\data_validation.py", line 30, in validate_all_columns
+    raise e
+  File "D:\Project\redwine_end-to-end\src\components\data_validation.py", line 13, in validate_all_columns
+    data=pd.read_csv(self.config.unzip_data_dir)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DataIngestionConfig' object has no attribute 'unzip_data_dir'
+[2025-02-19 16:20:37,039]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 16:20:37,039]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:20:37,039]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:20:37,039]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:20:37,039]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:20:37,039]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:20:38,421]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D150:374C4F:4F5EDA:727FED:67B5A776
+Accept-Ranges: bytes
+Date: Wed, 19 Feb 2025 10:50:38 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10221-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1739962239.571947,VS0,VE292
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 00c618aefc5b9cc4a2f1d93a371adba5e448f0c3
+Expires: Wed, 19 Feb 2025 10:55:38 GMT
+Source-Age: 0
+
+
+[2025-02-19 16:20:38,428]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 16:20:38,428]: INFO: main:  >>>>>>>>>>>>>>>>stage Data Validation Stage initiated
+[2025-02-19 16:20:38,432]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:20:38,433]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:20:38,436]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:20:38,436]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:20:38,436]: ERROR: main:  'ConfigurationManager' object has no attribute 'get_data_validation_config'
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 18, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_02_data_validation.py", line 14, in main
+    data_validation_config=config.get_data_validation_config()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_validation_config'
+[2025-02-19 16:21:51,759]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 16:21:51,759]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:21:51,759]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:21:51,759]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:21:51,759]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:21:51,759]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:21:51,775]: INFO: data_ingestion:  file already exist
+[2025-02-19 16:21:51,779]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 16:21:51,779]: INFO: main:  >>>>>>>>>>>>>>>>stage Data Validation Stage initiated
+[2025-02-19 16:21:51,779]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:21:51,783]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:21:51,788]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:21:51,788]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:21:51,792]: ERROR: main:  "'ConfigBox' object has no attribute 'root_dir'"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'root_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'root_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'root_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'root_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'root_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'root_dir'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'root_dir'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 18, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_02_data_validation.py", line 14, in main
+    data_validation_config=config.get_data_validation()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\src\config\configuration.py", line 36, in get_data_validation
+    create_directories([self.config.root_dir])
+                        ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'root_dir'"
+[2025-02-19 16:23:55,261]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 16:23:55,261]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:23:55,261]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:23:55,261]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:23:55,261]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:23:55,261]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:23:56,737]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D150:374C4F:4F5EDA:727FED:67B5A776
+Accept-Ranges: bytes
+Date: Wed, 19 Feb 2025 10:53:57 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10235-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1739962437.190901,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f4e0d4f2c15b8e784b0ca3efa539bafaf254fa68
+Expires: Wed, 19 Feb 2025 10:58:57 GMT
+Source-Age: 198
+
+
+[2025-02-19 16:23:56,743]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 16:36:31,648]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 16:36:31,648]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:36:31,653]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:36:31,658]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:36:31,660]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:36:31,662]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 16:36:33,198]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D150:374C4F:4F5EDA:727FED:67B5A776
+Accept-Ranges: bytes
+Date: Wed, 19 Feb 2025 11:06:33 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10229-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1739963193.335050,VS0,VE277
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: afae4a510796c4ab74f96f417feb75e4fc8cbb86
+Expires: Wed, 19 Feb 2025 11:11:33 GMT
+Source-Age: 0
+
+
+[2025-02-19 16:36:33,198]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 16:36:33,198]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-19 16:36:33,205]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 16:36:33,205]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 16:36:33,208]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 16:36:33,210]: INFO: common:  path has been created in artifacts
+[2025-02-19 16:36:33,210]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-19 16:36:33,240]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-19 17:15:33,308]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 17:15:33,315]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 17:15:33,322]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 17:15:33,325]: INFO: common:  path has been created in artifacts
+[2025-02-19 17:15:33,328]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-19 17:15:33,439]: INFO: 4047732307:  train test split has bben initiated
+[2025-02-19 17:15:33,439]: INFO: 4047732307:  (1199, 12)
+[2025-02-19 17:15:33,439]: INFO: 4047732307:  (400, 12)
+[2025-02-19 17:40:09,933]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 17:40:09,933]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 17:40:09,933]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 17:40:09,933]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 17:40:09,933]: INFO: common:  path has been created in artifacts
+[2025-02-19 17:40:09,933]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 17:40:11,529]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D150:374C4F:4F5EDA:727FED:67B5A776
+Accept-Ranges: bytes
+Date: Wed, 19 Feb 2025 12:10:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10228-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1739967012.671111,VS0,VE308
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b3d58ce206c2490aea59b108345842a510e20cb1
+Expires: Wed, 19 Feb 2025 12:15:11 GMT
+Source-Age: 0
+
+
+[2025-02-19 17:40:11,529]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 17:40:11,529]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-19 17:40:11,529]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 17:40:11,538]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 17:40:11,542]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 17:40:11,543]: INFO: common:  path has been created in artifacts
+[2025-02-19 17:40:11,545]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-19 17:40:11,569]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-19 17:40:11,569]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-19 17:40:11,569]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 17:40:11,569]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 17:40:11,576]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 17:40:11,576]: INFO: common:  path has been created in artifacts
+[2025-02-19 17:40:11,580]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-19 17:40:11,612]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-19 17:40:11,612]: INFO: data_transformation:  (1199, 12)
+[2025-02-19 17:40:11,612]: INFO: data_transformation:  (400, 12)
+[2025-02-19 17:40:11,617]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
