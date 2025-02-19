@@ -8,7 +8,7 @@ def error_message_details(error,error_details:sys):
     error="errror occured in python script [{0}] line number [{1}] message [{2}]".format(
         file_name,exc_tb.tb_lineno,str(error)
     )
-    return error
+    return error 
 
 
 class CustomException(Exception):

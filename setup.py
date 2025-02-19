@@ -9,7 +9,7 @@ def get_requirements(file_path:str='requirements.txt'):
         with open(file_path,'r') as f:
             return [line.strip() for line in f.readlines() if line.strip() and line.strip()!='-e .']
     except FileNotFoundError:
-        return []
+        return [] 
 print(get_requirements())
 setup(
     name='Machine learning project',

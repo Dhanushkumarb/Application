@@ -9,4 +9,4 @@ try:
     logger.info(f">>>>>>>stage {stage_name} completed  <<<<")
 except Exception as e:
     logger.exception(e)
-    raise e 
+    raise e  

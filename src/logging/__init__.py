@@ -9,7 +9,7 @@ file_dir="log"
 file_path=os.path.join(file_dir,"requirements.log")
 os.makedirs(file_dir,exist_ok=True)
 
-logging.basicConfig(
+logging.basicConfig( 
     level=logging.INFO,
     format=level_str,
     
