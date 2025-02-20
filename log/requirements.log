@@ -643,3 +643,1929 @@ Source-Age: 0
 [2025-02-19 17:40:11,612]: INFO: data_transformation:  (1199, 12)
 [2025-02-19 17:40:11,612]: INFO: data_transformation:  (400, 12)
 [2025-02-19 17:40:11,617]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-19 22:54:42,984]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 22:54:42,991]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 22:54:42,999]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 22:54:43,005]: INFO: common:  path has been created in artifacts
+[2025-02-19 22:54:43,008]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-19 22:57:44,655]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 22:57:44,659]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 22:57:44,664]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 22:57:44,667]: INFO: common:  path has been created in artifacts
+[2025-02-19 22:57:44,671]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-19 22:58:44,527]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 22:58:44,527]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 22:58:44,534]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 22:58:44,534]: INFO: common:  path has been created in artifacts
+[2025-02-19 22:58:44,542]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-19 22:58:57,916]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 22:58:57,916]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 22:58:57,923]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 22:58:57,923]: INFO: common:  path has been created in artifacts
+[2025-02-19 22:58:57,929]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-19 23:01:07,089]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 23:01:07,093]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 23:01:07,097]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 23:01:07,101]: INFO: common:  path has been created in artifacts
+[2025-02-19 23:01:07,103]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-19 23:26:47,482]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 23:26:47,485]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 23:26:47,485]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 23:26:47,487]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 23:26:47,487]: INFO: common:  path has been created in artifacts
+[2025-02-19 23:26:47,487]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 23:26:49,667]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2662:28EBCE:3C00E1:51B201:67B61B60
+Accept-Ranges: bytes
+Date: Wed, 19 Feb 2025 17:56:49 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10226-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1739987809.820969,VS0,VE298
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 0659fe1ad356445d5d91087394c120a7f1e3cd9e
+Expires: Wed, 19 Feb 2025 18:01:49 GMT
+Source-Age: 0
+
+
+[2025-02-19 23:26:49,691]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 23:26:49,693]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-19 23:26:49,698]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 23:26:49,699]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 23:26:49,703]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 23:26:49,704]: INFO: common:  path has been created in artifacts
+[2025-02-19 23:26:49,706]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-19 23:26:49,724]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-19 23:26:49,724]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-19 23:26:49,724]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 23:26:49,730]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 23:26:49,735]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 23:26:49,738]: INFO: common:  path has been created in artifacts
+[2025-02-19 23:26:49,738]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-19 23:26:49,780]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-19 23:26:49,780]: INFO: data_transformation:  (1199, 12)
+[2025-02-19 23:26:49,780]: INFO: data_transformation:  (400, 12)
+[2025-02-19 23:26:49,780]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-19 23:26:49,780]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-19 23:26:49,786]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 23:26:49,789]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 23:26:49,789]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 23:26:49,793]: INFO: common:  path has been created in artifacts
+[2025-02-19 23:26:49,795]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-19 23:26:49,803]: ERROR: main:  "['artifacts/data_transformation/test.csv'] not found in axis"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 41, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_04_model_training.py", line 15, in main
+    model_data.train()
+  File "D:\Project\redwine_end-to-end\src\components\model_training.py", line 18, in train
+    test_X=test_data.drop([self.config.test_data_path],axis=1)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\core\frame.py", line 5581, in drop
+    return super().drop(
+           ^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\core\generic.py", line 4788, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\core\generic.py", line 4830, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\core\indexes\base.py", line 7070, in drop
+    raise KeyError(f"{labels[mask].tolist()} not found in axis")
+KeyError: "['artifacts/data_transformation/test.csv'] not found in axis"
+[2025-02-19 23:31:15,783]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-19 23:31:15,787]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 23:31:15,787]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 23:31:15,787]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 23:31:15,787]: INFO: common:  path has been created in artifacts
+[2025-02-19 23:31:15,787]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-19 23:31:17,563]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2662:28EBCE:3C00E1:51B201:67B61B60
+Accept-Ranges: bytes
+Date: Wed, 19 Feb 2025 18:01:17 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10220-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1739988078.510830,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 0596568a39b6d1a1307103e99e79a80839f5837a
+Expires: Wed, 19 Feb 2025 18:06:17 GMT
+Source-Age: 268
+
+
+[2025-02-19 23:31:17,563]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-19 23:31:17,563]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-19 23:31:17,563]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 23:31:17,563]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 23:31:17,578]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 23:31:17,578]: INFO: common:  path has been created in artifacts
+[2025-02-19 23:31:17,578]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-19 23:31:17,596]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-19 23:31:17,596]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-19 23:31:17,603]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 23:31:17,605]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 23:31:17,609]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 23:31:17,610]: INFO: common:  path has been created in artifacts
+[2025-02-19 23:31:17,612]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-19 23:31:17,645]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-19 23:31:17,645]: INFO: data_transformation:  (1199, 12)
+[2025-02-19 23:31:17,645]: INFO: data_transformation:  (400, 12)
+[2025-02-19 23:31:17,645]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-19 23:31:17,645]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-19 23:31:17,645]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-19 23:31:17,645]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-19 23:31:17,658]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-19 23:31:17,663]: INFO: common:  path has been created in artifacts
+[2025-02-19 23:31:17,663]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-19 23:31:17,684]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 11:53:51,073]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 11:53:51,079]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 11:53:51,084]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 11:53:51,091]: INFO: common:  path has been created in artifacts
+[2025-02-20 11:54:25,457]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 11:54:25,457]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 11:54:25,465]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 11:54:25,466]: INFO: common:  path has been created in artifacts
+[2025-02-20 11:54:25,468]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 11:55:53,986]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 11:55:53,993]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 11:55:53,995]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 11:55:53,997]: INFO: common:  path has been created in artifacts
+[2025-02-20 11:55:53,998]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 11:57:44,603]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 11:57:44,603]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 11:57:44,603]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 11:57:44,603]: INFO: common:  path has been created in artifacts
+[2025-02-20 11:57:44,603]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 11:58:09,070]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 11:58:09,070]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 11:58:09,073]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 11:58:09,077]: INFO: common:  path has been created in artifacts
+[2025-02-20 11:58:09,078]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 11:58:09,094]: INFO: common:  json file saved to artifacts\model_evaluation\metrics.json
+[2025-02-20 12:34:36,881]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 12:34:36,897]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:34:36,897]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:34:36,897]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:34:36,897]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:34:36,897]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 12:34:38,376]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6889:2EC332:57D03B:7CEC5A:67B6D406
+Accept-Ranges: bytes
+Date: Thu, 20 Feb 2025 07:04:39 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10246-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1740035079.661696,VS0,VE349
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: dd8d61cf4ac50be699ebe8f01e14e61467899f98
+Expires: Thu, 20 Feb 2025 07:09:39 GMT
+Source-Age: 0
+
+
+[2025-02-20 12:34:38,376]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 12:34:38,376]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 12:34:38,393]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:34:38,394]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:34:38,395]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:34:38,397]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:34:38,397]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 12:34:38,406]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 12:34:38,407]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 12:34:38,408]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 12:34:38,408]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 12:34:38,411]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:34:38,413]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:34:38,413]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:34:38,413]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:34:38,413]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 12:34:38,413]: ERROR: main:  [Errno 2] No such file or directory: 'artifacts/data_transformation/train.csv'
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 42, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_04_model_training.py", line 15, in main
+    model_data.train()
+  File "D:\Project\redwine_end-to-end\src\components\model_training.py", line 14, in train
+    train_data=pd.read_csv(self.config.train_data_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_transformation/train.csv'
+[2025-02-20 12:39:12,738]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 12:39:12,738]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:39:12,738]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:39:12,738]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:39:12,738]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:39:12,738]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 12:39:13,831]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6889:2EC332:57D03B:7CEC5A:67B6D406
+Accept-Ranges: bytes
+Date: Thu, 20 Feb 2025 07:09:14 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10239-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1740035354.452305,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b548d864977438f80f9247e5f1dd791dc7bc1b66
+Expires: Thu, 20 Feb 2025 07:14:14 GMT
+Source-Age: 275
+
+
+[2025-02-20 12:39:13,837]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 12:39:13,837]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 12:39:13,842]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:39:13,843]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:39:13,844]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:39:13,846]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:39:13,846]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 12:39:13,856]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 12:39:13,856]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 12:39:13,856]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 12:39:13,856]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 12:39:13,856]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:39:13,859]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:39:13,859]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:39:13,859]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:39:13,859]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 12:39:13,863]: ERROR: main:  [Errno 2] No such file or directory: 'artifacts/data_transformation/train.csv'
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 42, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_04_model_training.py", line 15, in main
+    model_data.train()
+  File "D:\Project\redwine_end-to-end\src\components\model_training.py", line 14, in train
+    train_data=pd.read_csv(self.config.train_data_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_transformation/train.csv'
+[2025-02-20 12:46:01,603]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 12:46:01,603]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:46:01,606]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:46:01,606]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:46:01,606]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:46:01,609]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 12:46:02,997]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6889:2EC332:57D03B:7CEC5A:67B6D406
+Accept-Ranges: bytes
+Date: Thu, 20 Feb 2025 07:16:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10245-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1740035763.261873,VS0,VE314
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7fca20029a3da8f65fdd45539c6e42e8ec39b932
+Expires: Thu, 20 Feb 2025 07:21:03 GMT
+Source-Age: 0
+
+
+[2025-02-20 12:46:03,003]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 12:46:03,003]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 12:46:03,006]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:46:03,007]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:46:03,008]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:46:03,009]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:46:03,009]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 12:46:03,018]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 12:46:03,019]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 12:46:03,019]: ERROR: main:  name 'status' is not defined
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 31, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_03_data_transformation.py", line 15, in main
+    if status==True:
+       ^^^^^^
+NameError: name 'status' is not defined
+[2025-02-20 12:49:28,877]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 12:49:28,877]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:49:28,877]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:49:28,877]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:49:28,877]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:49:28,877]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 12:49:28,877]: INFO: data_ingestion:  file already exist
+[2025-02-20 12:49:28,877]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 12:49:28,877]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 12:49:28,877]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:49:28,890]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:49:28,891]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:49:28,892]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:49:28,893]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 12:49:28,898]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 12:49:28,898]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 12:49:28,898]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 12:49:28,898]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 12:49:28,905]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:49:28,905]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:49:28,908]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:49:28,908]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:49:28,909]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 12:49:28,909]: ERROR: main:  [Errno 2] No such file or directory: 'artifacts/data_transformation/train.csv'
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 42, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_04_model_training.py", line 15, in main
+    model_data.train()
+  File "D:\Project\redwine_end-to-end\src\components\model_training.py", line 14, in train
+    train_data=pd.read_csv(self.config.train_data_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_transformation/train.csv'
+[2025-02-20 12:50:58,273]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 12:50:58,273]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:50:58,273]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:50:58,273]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:50:58,273]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:50:58,273]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 12:50:59,284]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6889:2EC332:57D03B:7CEC5A:67B6D406
+Accept-Ranges: bytes
+Date: Thu, 20 Feb 2025 07:20:59 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10238-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1740036060.922119,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d5b3445efa1e65b0bb990cc420ec7a8bb8e395d4
+Expires: Thu, 20 Feb 2025 07:25:59 GMT
+Source-Age: 296
+
+
+[2025-02-20 12:50:59,287]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 12:50:59,290]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 12:50:59,290]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:50:59,290]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:50:59,295]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:50:59,295]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:50:59,296]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 12:50:59,306]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 12:50:59,307]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 12:50:59,308]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:50:59,309]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:50:59,311]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:50:59,311]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:50:59,312]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 12:50:59,340]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 12:50:59,340]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 12:50:59,340]: INFO: data_transformation:  (400, 12)
+[2025-02-20 12:50:59,340]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 12:50:59,341]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 12:50:59,342]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:50:59,343]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:50:59,345]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:50:59,345]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:50:59,346]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 12:50:59,360]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 12:50:59,361]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 12:50:59,362]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:50:59,365]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:50:59,366]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:50:59,366]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:50:59,366]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 12:50:59,366]: ERROR: main:  "'ConfigBox' object has no attribute 'metric_file_name'"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 52, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_05_model_evaluation.py", line 12, in main
+    model_evaluation_config=config.get_model_evaluate_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\src\config\configuration.py", line 89, in get_model_evaluate_config
+    metric_file_name=config.metric_file_name,
+                     ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file_name'"
+[2025-02-20 12:58:28,264]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 12:58:28,264]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:58:28,264]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:58:28,264]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:58:28,264]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:58:28,264]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 12:58:28,264]: INFO: data_ingestion:  file already exist
+[2025-02-20 12:58:28,264]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 12:58:28,264]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 12:58:28,264]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:58:28,264]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:58:28,281]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:58:28,281]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:58:28,282]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 12:58:28,289]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 12:58:28,289]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 12:58:28,289]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:58:28,293]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:58:28,293]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:58:28,296]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:58:28,296]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 12:58:28,342]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 12:58:28,343]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 12:58:28,343]: INFO: data_transformation:  (400, 12)
+[2025-02-20 12:58:28,344]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 12:58:28,344]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 12:58:28,347]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:58:28,349]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:58:28,352]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:58:28,353]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:58:28,354]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 12:58:28,369]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 12:58:28,370]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 12:58:28,372]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:58:28,375]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:58:28,377]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:58:28,378]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:58:28,380]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 12:58:28,381]: ERROR: main:  "'ConfigBox' object has no attribute 'metric_file_name'"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 52, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_05_model_evaluation.py", line 12, in main
+    model_evaluation_config=config.get_model_evaluate_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\src\config\configuration.py", line 89, in get_model_evaluate_config
+    metric_file_name=config.metric_file_name,
+                     ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file_name'"
+[2025-02-20 12:58:54,042]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 12:58:54,042]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:58:54,042]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:58:54,058]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:58:54,058]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:58:54,058]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 12:58:55,471]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6889:2EC332:57D03B:7CEC5A:67B6D406
+Accept-Ranges: bytes
+Date: Thu, 20 Feb 2025 07:28:56 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10241-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1740036536.796384,VS0,VE252
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5eb1d71a7dbb1ce1c9286e5bfe10ce1cd17823e5
+Expires: Thu, 20 Feb 2025 07:33:56 GMT
+Source-Age: 0
+
+
+[2025-02-20 12:58:55,475]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 12:58:55,475]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 12:58:55,477]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:58:55,477]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:58:55,478]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:58:55,478]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:58:55,478]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 12:58:55,487]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 12:58:55,488]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 12:58:55,490]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:58:55,490]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:58:55,492]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:58:55,492]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:58:55,493]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 12:58:55,513]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 12:58:55,513]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 12:58:55,513]: INFO: data_transformation:  (400, 12)
+[2025-02-20 12:58:55,513]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 12:58:55,513]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 12:58:55,513]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:58:55,513]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:58:55,520]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:58:55,520]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:58:55,522]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 12:58:55,532]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 12:58:55,532]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 12:58:55,536]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 12:58:55,537]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 12:58:55,538]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 12:58:55,539]: INFO: common:  path has been created in artifacts
+[2025-02-20 12:58:55,539]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 12:58:55,539]: ERROR: main:  "'ConfigBox' object has no attribute 'metric_file_name'"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 52, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_05_model_evaluation.py", line 12, in main
+    model_evaluation_config=config.get_model_evaluate_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\src\config\configuration.py", line 89, in get_model_evaluate_config
+    metric_file_name=config.metric_file_name,
+                     ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file_name'"
+[2025-02-20 13:03:03,643]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 13:03:03,643]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:03:03,643]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:03:03,643]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:03:03,643]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:03:03,643]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 13:03:03,643]: INFO: data_ingestion:  file already exist
+[2025-02-20 13:03:03,643]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 13:03:03,643]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 13:03:03,643]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:03:03,643]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:03:03,660]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:03:03,662]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:03:03,662]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 13:03:03,670]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 13:03:03,671]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 13:03:03,672]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:03:03,672]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:03:03,676]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:03:03,677]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:03:03,677]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 13:03:03,691]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 13:03:03,691]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 13:03:03,691]: INFO: data_transformation:  (400, 12)
+[2025-02-20 13:03:03,691]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 13:03:03,691]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 13:03:03,695]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:03:03,696]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:03:03,697]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:03:03,697]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:03:03,697]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 13:03:03,705]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 13:03:03,705]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 13:03:03,711]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:03:03,711]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:03:03,711]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:03:03,711]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:03:03,711]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 13:03:03,711]: ERROR: main:  "'ConfigBox' object has no attribute 'metric_file_name'"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 52, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_05_model_evaluation.py", line 12, in main
+    model_evaluation_config=config.get_model_evaluate_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\src\config\configuration.py", line 89, in get_model_evaluate_config
+    metric_file_name=config.metric_file_name,
+                     ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file_name'"
+[2025-02-20 13:08:26,954]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 13:08:26,969]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:08:26,969]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:08:26,969]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:08:26,969]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:08:26,969]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 13:08:26,969]: INFO: data_ingestion:  file already exist
+[2025-02-20 13:08:26,969]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 13:08:26,969]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 13:08:26,969]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:08:26,969]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:08:26,969]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:08:26,978]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:08:26,978]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 13:08:26,982]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 13:08:26,986]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 13:08:26,988]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:08:26,990]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:08:26,991]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:08:26,992]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:08:26,992]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 13:08:27,008]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 13:08:27,009]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 13:08:27,009]: INFO: data_transformation:  (400, 12)
+[2025-02-20 13:08:27,009]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 13:08:27,010]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 13:08:27,011]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:08:27,011]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:08:27,014]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:08:27,014]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:08:27,016]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 13:08:27,024]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 13:08:27,024]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 13:08:27,027]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:08:27,027]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:08:27,028]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:08:27,030]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:08:27,030]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 13:08:27,031]: ERROR: main:  "'ConfigBox' object has no attribute 'metric_file_name'"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file_name'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 52, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_05_model_evaluation.py", line 12, in main
+    model_evaluation_config=config.get_model_evaluate_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\src\config\configuration.py", line 89, in get_model_evaluate_config
+    metric_file_name=config.metric_file_name,
+                     ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file_name'"
+[2025-02-20 13:14:07,852]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 13:14:07,854]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:14:07,854]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:14:07,856]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:14:07,856]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:14:07,856]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 13:14:07,857]: INFO: data_ingestion:  file already exist
+[2025-02-20 13:14:07,859]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 13:14:07,859]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 13:14:07,861]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:14:07,861]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:14:07,863]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:14:07,864]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:14:07,864]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 13:14:07,877]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 13:14:07,877]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 13:14:07,879]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:14:07,880]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:14:07,881]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:14:07,883]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:14:07,883]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 13:14:07,900]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 13:14:07,900]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 13:14:07,900]: INFO: data_transformation:  (400, 12)
+[2025-02-20 13:14:07,900]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 13:14:07,900]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 13:14:07,900]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:14:07,906]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:14:07,907]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:14:07,908]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:14:07,908]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 13:14:07,917]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 13:14:07,918]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 13:14:07,920]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:14:07,920]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:14:07,922]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:14:07,922]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:14:07,922]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 13:14:07,923]: ERROR: main:  "'ConfigBox' object has no attribute 'metric_file'"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 52, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_05_model_evaluation.py", line 12, in main
+    model_evaluation_config=config.get_model_evaluate_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\src\config\configuration.py", line 89, in get_model_evaluate_config
+    metric_file=config.metric_file,
+                ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file'"
+[2025-02-20 13:16:53,959]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 13:16:53,959]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:16:53,959]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:16:53,959]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:16:53,975]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:16:53,975]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 13:16:53,975]: INFO: data_ingestion:  file already exist
+[2025-02-20 13:16:53,975]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 13:16:53,975]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 13:16:53,980]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:16:53,980]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:16:53,980]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:16:53,982]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:16:53,983]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 13:16:53,992]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 13:16:53,992]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 13:16:53,994]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:16:53,995]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:16:53,995]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:16:53,997]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:16:53,998]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 13:16:54,019]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 13:16:54,020]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 13:16:54,020]: INFO: data_transformation:  (400, 12)
+[2025-02-20 13:16:54,021]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 13:16:54,021]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 13:16:54,024]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:16:54,025]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:16:54,028]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:16:54,029]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:16:54,030]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 13:16:54,041]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 13:16:54,042]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 13:16:54,044]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:16:54,045]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:16:54,047]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:16:54,048]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:16:54,048]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 13:16:54,049]: ERROR: main:  "'ConfigBox' object has no attribute 'metric_file'"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 52, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_05_model_evaluation.py", line 12, in main
+    model_evaluation_config=config.get_model_evaluate_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\src\config\configuration.py", line 89, in get_model_evaluate_config
+    metric_file=config.metric_file,
+                ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file'"
+[2025-02-20 13:22:16,452]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 13:22:16,452]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:22:16,452]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:22:16,452]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:22:16,452]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:22:16,452]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 13:22:16,452]: INFO: data_ingestion:  file already exist
+[2025-02-20 13:22:16,452]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 13:22:16,452]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 13:22:16,452]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:22:16,452]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:22:16,468]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:22:16,468]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:22:16,469]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 13:22:16,477]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 13:22:16,479]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 13:22:16,481]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:22:16,481]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:22:16,483]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:22:16,483]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:22:16,484]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 13:22:16,498]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 13:22:16,498]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 13:22:16,498]: INFO: data_transformation:  (400, 12)
+[2025-02-20 13:22:16,498]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 13:22:16,498]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 13:22:16,498]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:22:16,504]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:22:16,505]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:22:16,506]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:22:16,506]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 13:22:16,512]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 13:22:16,512]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 13:22:16,518]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:22:16,519]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:22:16,520]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:22:16,520]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:22:16,521]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 13:22:16,522]: ERROR: main:  "'ConfigBox' object has no attribute 'metric_file'"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 52, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_05_model_evaluation.py", line 12, in main
+    model_evaluation_config=config.get_model_evaluate_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\src\config\configuration.py", line 89, in get_model_evaluate_config
+    metric_file=config.metric_file,
+                ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file'"
+[2025-02-20 13:28:56,950]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 13:28:56,950]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:28:56,950]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:28:56,950]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:28:56,950]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:28:56,950]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 13:28:58,344]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6889:2EC332:57D03B:7CEC5A:67B6D406
+Accept-Ranges: bytes
+Date: Thu, 20 Feb 2025 07:58:58 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10238-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1740038339.626705,VS0,VE260
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d7f0861fce554475880c01bf0c4a26bdd0c3047e
+Expires: Thu, 20 Feb 2025 08:03:58 GMT
+Source-Age: 0
+
+
+[2025-02-20 13:28:58,344]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 13:28:58,344]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 13:28:58,348]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:28:58,348]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:28:58,348]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:28:58,352]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:28:58,353]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 13:28:58,363]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 13:28:58,363]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 13:28:58,365]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:28:58,366]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:28:58,367]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:28:58,368]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:28:58,368]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 13:28:58,387]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 13:28:58,388]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 13:28:58,388]: INFO: data_transformation:  (400, 12)
+[2025-02-20 13:28:58,388]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 13:28:58,388]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 13:28:58,390]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:28:58,392]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:28:58,394]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:28:58,394]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:28:58,395]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 13:28:58,406]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 13:28:58,407]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 13:28:58,409]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:28:58,410]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:28:58,411]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:28:58,411]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:28:58,411]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 13:28:58,411]: ERROR: main:  "'ConfigBox' object has no attribute 'metric_file'"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 52, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_05_model_evaluation.py", line 12, in main
+    model_evaluation_config=config.get_model_evaluate_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\src\config\configuration.py", line 89, in get_model_evaluate_config
+    metric_file=config.metric_file,
+                ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file'"
+[2025-02-20 13:38:39,158]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 13:38:39,174]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:38:39,174]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:38:39,177]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:38:39,177]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:38:39,179]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 13:38:39,179]: INFO: data_ingestion:  file already exist
+[2025-02-20 13:38:39,181]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 13:38:39,181]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 13:38:39,183]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:38:39,183]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:38:39,185]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:38:39,186]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:38:39,187]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 13:38:39,199]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 13:38:39,199]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 13:38:39,202]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:38:39,203]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:38:39,205]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:38:39,205]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:38:39,205]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 13:38:39,227]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 13:38:39,227]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 13:38:39,229]: INFO: data_transformation:  (400, 12)
+[2025-02-20 13:38:39,230]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 13:38:39,230]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 13:38:39,231]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:38:39,231]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:38:39,235]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:38:39,236]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:38:39,236]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 13:38:39,250]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 13:38:39,251]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 13:38:39,253]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:38:39,253]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:38:39,254]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:38:39,254]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:38:39,254]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 13:38:39,256]: ERROR: main:  "'ConfigBox' object has no attribute 'metric_file'"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 52, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_05_model_evaluation.py", line 12, in main
+    model_evaluation_config=config.get_model_evaluate_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\src\config\configuration.py", line 89, in get_model_evaluate_config
+    metric_file=config.metric_file,
+                ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file'"
+[2025-02-20 13:41:40,959]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 13:41:40,959]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:41:40,959]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:41:40,959]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:41:40,959]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:41:40,975]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 13:41:40,975]: INFO: data_ingestion:  file already exist
+[2025-02-20 13:41:40,975]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 13:41:40,975]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 13:41:40,975]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:41:40,975]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:41:40,981]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:41:40,981]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:41:40,982]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 13:41:40,989]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 13:41:40,989]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 13:41:40,989]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:41:40,989]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:41:40,989]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:41:40,996]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:41:40,996]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 13:41:41,013]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 13:41:41,013]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 13:41:41,014]: INFO: data_transformation:  (400, 12)
+[2025-02-20 13:41:41,014]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 13:41:41,014]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 13:41:41,016]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:41:41,017]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:41:41,018]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:41:41,018]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:41:41,018]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 13:41:41,029]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 13:41:41,029]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 13:41:41,032]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:41:41,032]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:41:41,032]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:41:41,032]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:41:41,032]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 13:41:41,032]: ERROR: main:  "'ConfigBox' object has no attribute 'metric_file'"
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'metric_file'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'metric_file'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 52, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_05_model_evaluation.py", line 12, in main
+    model_evaluation_config=config.get_model_evaluate_config()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\src\config\configuration.py", line 89, in get_model_evaluate_config
+    metrics_file=config.metric_file,
+                 ^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\redwine_end-to-end\venv\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'metric_file'"
+[2025-02-20 13:42:36,162]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 13:42:36,162]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:42:36,162]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:42:36,162]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:42:36,162]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:42:36,162]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 13:42:37,540]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6889:2EC332:57D03B:7CEC5A:67B6D406
+Accept-Ranges: bytes
+Date: Thu, 20 Feb 2025 08:12:38 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10250-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1740039158.891370,VS0,VE286
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 93e32300a430500ef1327a77413a4623a80df9a2
+Expires: Thu, 20 Feb 2025 08:17:38 GMT
+Source-Age: 0
+
+
+[2025-02-20 13:42:37,540]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 13:42:37,540]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 13:42:37,540]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:42:37,549]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:42:37,551]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:42:37,552]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:42:37,553]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 13:42:37,563]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 13:42:37,563]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 13:42:37,564]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:42:37,564]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:42:37,564]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:42:37,564]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:42:37,570]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 13:42:37,590]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 13:42:37,590]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 13:42:37,590]: INFO: data_transformation:  (400, 12)
+[2025-02-20 13:42:37,590]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 13:42:37,590]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 13:42:37,590]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:42:37,590]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:42:37,596]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:42:37,596]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:42:37,597]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 13:42:37,606]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 13:42:37,606]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 13:42:37,609]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:42:37,611]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:42:37,611]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:42:37,613]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:42:37,613]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 13:42:37,617]: ERROR: main:  invalid load key, 'f'.
+Traceback (most recent call last):
+  File "D:\Project\redwine_end-to-end\main.py", line 52, in <module>
+    data_ingestion.main()
+  File "D:\Project\redwine_end-to-end\src\pipeline\stage_05_model_evaluation.py", line 14, in main
+    model_evaluation.save_file()
+  File "D:\Project\redwine_end-to-end\src\components\model_evaluation.py", line 23, in save_file
+    model=pickle.load(open(self.config.test_data_path,'rb'))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_pickle.UnpicklingError: invalid load key, 'f'.
+[2025-02-20 13:45:48,613]: INFO: main:  >>>> stage Data Ingestion Config started
+[2025-02-20 13:45:48,613]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:45:48,613]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:45:48,613]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:45:48,613]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:45:48,613]: INFO: common:  path has been created in artifacts/data_ingestion
+[2025-02-20 13:45:49,638]: INFO: data_ingestion:  artifacts/data_ingestion/data.zip has been created 
+Connection: close
+Content-Length: 25115
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "8bdd43e99a0542a72428bf6002b29f7e97c618e9585f42d63c7c1a31e6c3f7ae"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6889:2EC332:57D03B:7CEC5A:67B6D406
+Accept-Ranges: bytes
+Date: Thu, 20 Feb 2025 08:15:50 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10248-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1740039350.302215,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 038d3e0ba8b1fd88f531e44a33201833582c3ec7
+Expires: Thu, 20 Feb 2025 08:20:50 GMT
+Source-Age: 192
+
+
+[2025-02-20 13:45:49,638]: INFO: main:  >>>>>>>stage Data Ingestion Config completed  <<<<
+[2025-02-20 13:45:49,638]: INFO: main:  >>>> stage Data Validation Config started
+[2025-02-20 13:45:49,638]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:45:49,638]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:45:49,638]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:45:49,652]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:45:49,652]: INFO: common:  path has been created in artifacts/data_validation
+[2025-02-20 13:45:49,661]: INFO: main:  >>>>>>>stage Data Validation Config completed  <<<<
+[2025-02-20 13:45:49,661]: INFO: main:  >>>> stage Data Transformation Config started
+[2025-02-20 13:45:49,661]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:45:49,661]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:45:49,661]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:45:49,661]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:45:49,661]: INFO: common:  path has been created in artifacts/data_transformation
+[2025-02-20 13:45:49,682]: INFO: data_transformation:  train_test_split is initittaed
+[2025-02-20 13:45:49,682]: INFO: data_transformation:  (1199, 12)
+[2025-02-20 13:45:49,682]: INFO: data_transformation:  (400, 12)
+[2025-02-20 13:45:49,682]: INFO: main:  >>>>>>>stage Data Transformation Config completed  <<<<
+[2025-02-20 13:45:49,682]: INFO: main:  >>>> stage Model Training Stage is initiated
+[2025-02-20 13:45:49,682]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:45:49,682]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:45:49,689]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:45:49,689]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:45:49,690]: INFO: common:  path has been created in artifacts/model_trainer
+[2025-02-20 13:45:49,696]: INFO: main:  >>>> stage Model Training Stage is completed
+[2025-02-20 13:45:49,696]: INFO: main:  >>>> stage Model Evaluation Stage is initiated
+[2025-02-20 13:45:49,701]: INFO: common:  yaml file config\config.yaml has loaded succesfully
+[2025-02-20 13:45:49,702]: INFO: common:  yaml file params.yaml has loaded succesfully
+[2025-02-20 13:45:49,702]: INFO: common:  yaml file schema.yaml has loaded succesfully
+[2025-02-20 13:45:49,702]: INFO: common:  path has been created in artifacts
+[2025-02-20 13:45:49,702]: INFO: common:  path has been created in artifacts/model_evaluation
+[2025-02-20 13:45:49,717]: INFO: common:  json file saved to artifacts\model_evaluation\metrics.json
+[2025-02-20 13:45:49,718]: INFO: main:  >>>> stage Model Evaluation Stage is completed

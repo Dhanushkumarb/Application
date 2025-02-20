@@ -8,6 +8,7 @@ from box import ConfigBox
 from ensure import ensure_annotations
 from typing import Any
 from pathlib import Path
+import json
 
 @ensure_annotations
 def read_yaml_file(path_to_yaml:Path)->ConfigBox:

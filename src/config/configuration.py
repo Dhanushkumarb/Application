@@ -3,6 +3,8 @@ from src.utils.common import read_yaml_file,create_directories
 from src.entity.config_entity import DataIngestionConfig
 from src.entity.config_entity import DataValidationConfig
 from src.entity.config_entity import DataTransformationConfig
+from src.entity.config_entity import ModelTrainerConfig
+from src.entity.config_entity import ModelEvaluationConfig
 class ConfigurationManager:
     def __init__(
         self,
@@ -54,3 +56,39 @@ class ConfigurationManager:
             data_path=config.data_path
         )
         return data_transformed_config
+    
+    def get_model_train_config(self)-> ModelTrainerConfig:
+        config=self.config.model_training
+        params=self.params.ElasticNet
+        schema=self.schema.TARGET_COLUMN
+        
+        create_directories([config.root_dir])
+        
+        model_train_data=ModelTrainerConfig(
+            root_dir=config.root_dir,
+            train_data_path= config.train_data_path,
+            test_data_path=config.test_data_path,
+            model_name=config.model_name,
+            l1_ratio=params.l1_ratio,
+            alpha=params.alpha,
+            target_column=schema.name,
+        )
+        return model_train_data
+    
+    def get_model_evaluate_config(self)->ModelEvaluationConfig:
+        config=self.config.model_evaluation
+        params=self.params.ElasticNet
+        schema=self.schema.TARGET_COLUMN
+        
+        create_directories([config.root_dir])
+        
+        model_evaluate_config=ModelEvaluationConfig(
+            root_dir=config.root_dir,
+            test_data_path=config.test_data_path,
+            model_path=config.model_path,
+            metrics_file=config.metrics_file,
+            all_params=params,
+            target_column=schema.name,
+        )
+        return model_evaluate_config
+        
